@@ -9,7 +9,8 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
 </div>
 <hr>
-<p align="center">Stats</p>
-![skellgreco's Stats](https://github-readme-stats.vercel.app/api?username=skellgreco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![skellgreco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skellgreco&theme=tokyonight&hide_border=true)
-![skellgreco's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skellgreco&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<h2 align="center">Stats</h2>
+<p align="center"><img width=50% src="https://github-readme-stats.vercel.app/api?username=skellgreco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="stats"/>
+<p align="center"><img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=skellgreco&theme=tokyonight&hide_border=true"/>
+<p align="center"><img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=skellgreco&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<hr>
