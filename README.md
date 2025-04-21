@@ -11,6 +11,5 @@
 <hr>
 <h2 align="center">Stats</h2>
 <p align="center"><img width=50% src="https://github-readme-stats.vercel.app/api?username=skellgreco&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="stats"/>
-<p align="center"><img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=skellgreco&theme=tokyonight&hide_border=true"/>
 <p align="center"><img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=skellgreco&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 <hr>
