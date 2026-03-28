@@ -12,13 +12,13 @@
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
 
-## My Open-Source Projects
+## Open-Source Projects
 - **🪼 [Cially](https://github.com/cially/cially):** A powerful, open-source dashboard that provides in-depth insights, real-time analytics, and detailed statistics for your Discord server
 - **🗽 [Antigone Quiz](https://github.com/skellgreco/antigone_project):** An interactive web app that makes learning about the tragedy of Antigone engaging and easy to understand.
 - **🛡️ [Argus](https://github.com/modiva-launchers/argus):** An AI Moderation & Automation Tool for the Modiva Launcher.
 - Other minor projects can be found [here](https://github.com/skellgreco?tab=repositories)
 
-## My Closed-Source Projects
+## Closed-Source Projects
 - **🚀[Modiva Launcher](https://modiva-launcher.xyz/):** A lightweight Minecraft Launcher made to simplify Minecraft multiplayer
 
 ## What I'm doing
