@@ -15,6 +15,7 @@
 ## My Open-Source Projects
 - **🪼 [Cially](https://github.com/cially/cially):** A powerful, open-source dashboard that provides in-depth insights, real-time analytics, and detailed statistics for your Discord server
 - **🗽 [Antigone Quiz](https://github.com/skellgreco/antigone_project):** An interactive web app that makes learning about the tragedy of Antigone engaging and easy to understand.
+- **🛡️ [Argus](https://github.com/modiva-launchers/argus):** An AI Moderation & Automation Tool for the Modiva Launcher.
 - Other minor projects can be found [here](https://github.com/skellgreco?tab=repositories)
 
 ## My Closed-Source Projects
